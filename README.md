@@ -1,3 +1,3 @@
 # Enkapsulasi
-Aritmatika
-![alt text](https://github.com/akuian/Enkapsulasi/blob/master/Aritmatika.JPG)
+Latihan1
+![alt text](https://github.com/akuian/Enkapsulasi/blob/master/latihan1.JPG)
