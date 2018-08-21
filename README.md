@@ -31,6 +31,42 @@ Kondisi
 
 ![alt text](https://github.com/akuian/Jobsheet1/blob/master/Kondisi.JPG)
 
+Konversi Nilai
 
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/KonversiNilai.JPG)
 
-![alt text](https://github.com/akuian/Jobsheet1/blob/master/beasiswa.JPG)
+Luas Permukaan Balok
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/LuasPermukaanBalok.JPG)
+
+Pengulangan If
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/PengulanganIf.JPG)
+
+Pernyataan While
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/PernyataaanWhile.JPG)
+
+Pilihan Kondisi
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/PilihanKondisi.JPG)
+
+Variabel
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/Variable.JPG)
+
+Praktikum 1
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/Praktikum1.JPG)
+
+Praktikum 2
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/Praktikum2.JPG)
+
+Praktikum 3
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/Praktikum3.JPG)
+
+Praktikum4
+
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/Praktikum4.JPG)
