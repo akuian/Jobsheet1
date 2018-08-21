@@ -45,7 +45,7 @@ Pengulangan If
 
 Pernyataan While
 
-![alt text](https://github.com/akuian/Jobsheet1/blob/master/PernyataaanWhile.JPG)
+![alt text](https://github.com/akuian/Jobsheet1/blob/master/PernyataanWhile.JPG)
 
 Pilihan Kondisi
 
